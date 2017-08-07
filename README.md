@@ -12,6 +12,7 @@ We are working on bringing WAUTH-2 support, there will be big changes and the co
   - [matteocontrini](https://github.com/matteocontrini)
   - [tvandergeer](https://github.com/tvandergeer)
   - [thiagupct](https://github.com/thiagupct)
+  - [danzed](https://github.com/danzed)
 - PHP WhatsAPI collaborators
   - [shirioko](https://github.com/shirioko)
   - [mgp25](https://github.com/mgp25)
